@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
     "@types/node": "20.5.7",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
@@ -17,6 +18,10 @@
     "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-tsparticles": "^2.12.2",
+    "tsparticles": "^2.12.0",
+    "tsparticles-engine": "^2.12.0",
+    "tsparticles-slim": "^2.12.0",
     "typescript": "5.2.2"
   }
 }
